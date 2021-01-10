@@ -1,3 +1,3 @@
 # Portfolio-new
-A complete from scratch Portfolio
+A complete Portfolio from scratch 
  
